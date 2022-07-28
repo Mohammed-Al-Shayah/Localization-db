@@ -1,0 +1,15 @@
+{
+  "app_Name": "اسم التطبيق",
+  "welcome_hint":"أهلاً بكَ مجدداَ...",
+  "welcome_message": "أدخل البريد وكلمة المرور",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "home": "الصفحة الرئيسية",
+  "error_message": "Error Data",
+  "register": "تسجيل",
+  "register_hint": "انشاء حساب جديد..",
+  "register_message":"أدخل البيانات المطلوبة",
+  "name": "الاسم"
+
+}

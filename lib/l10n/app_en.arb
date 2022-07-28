@@ -1,0 +1,14 @@
+{
+  "app_Name": "App name",
+  "welcome_hint":"Welcome back ....",
+  "welcome_message": "Enter Email & Password",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "home": "Home",
+  "error_message": "Error Data",
+  "register": "Register",
+  "register_hint": "Create New Account ...",
+  "register_message":"Enter required data",
+  "name": "Name"
+}
